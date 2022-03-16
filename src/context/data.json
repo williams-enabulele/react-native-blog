@@ -1,0 +1,161 @@
+{
+    "data": {
+        "leagues": [
+        {
+            "id":  1,
+            "name": "English League",
+            "icon_url": "https://www.betpawa.ng/img/flags/england.png"
+        },
+        {
+            "id":  2,
+            "name": "Spanish League",
+            "icon_url": "https://www.betpawa.ng/img/flags/spain.png"
+        },
+        {
+            "id":  3,
+            "name": "Italian League",
+            "icon_url": "https://www.betpawa.ng/img/flags/italy.png"
+        },
+        {
+            "id":  4,
+            "name": "German League",
+            "icon_url": "https://www.betpawa.ng/img/flags/germany.png"
+        },
+        {
+            "id":  5,
+            "name": "French League",
+            "icon_url": "https://www.betpawa.ng/img/flags/france.png"
+        }
+    ],
+    "clubs": [
+        {
+            "id": 1,
+            "league_id": 1,
+            "name_short": "BUR" 
+        },
+        {
+            "id": 2,
+            "league_id": 1,
+            "name_short": "BRE" 
+        },
+        {
+            "id": 3,
+            "league_id": 1,
+            "name_short": "CRY" 
+        },
+        {
+            "id": 4,
+            "league_id": 1,
+            "name_short": "EVE" 
+        },
+        {
+            "id": 5,
+            "league_id": 1,
+            "name_short": "AST" 
+        },
+        {
+            "id": 6,
+            "league_id": 1,
+            "name_short": "ARS" 
+        },
+        {
+            "id": 7,
+            "league_id": 1,
+            "name_short": "LEI" 
+        },
+        {
+            "id": 8,
+            "league_id": 1,
+            "name_short": "BHA" 
+        },
+        {
+            "id": 9,
+            "league_id": 1,
+            "name_short": "MUN" 
+        },
+        {
+            "id": 10,
+            "league_id": 1,
+            "name_short": "LEE" 
+        },
+        {
+            "id": 11,
+            "league_id": 1,
+            "name_short": "NOR" 
+        },
+        {
+            "id": 12,
+            "league_id": 1,
+            "name_short": "WHU" 
+        },
+        {
+            "id": 13,
+            "league_id": 1,
+            "name_short": "SOU" 
+        },
+        {
+            "id": 14,
+            "league_id": 1,
+            "name_short": "MCI" 
+        },
+        {
+            "id": 15,
+            "league_id": 1,
+            "name_short": "TOT" 
+        },
+        {
+            "id": 16,
+            "league_id": 1,
+            "name_short": "WAT" 
+        },
+        {
+            "id": 17,
+            "league_id": 1,
+            "name_short": "WOL" 
+        },
+        {
+            "id": 18,
+            "league_id": 1,
+            "name_short": "CHE" 
+        },
+        {
+            "id": 19,
+            "league_id": 1,
+            "name_short": "BUR" 
+        },
+        {
+            "id": 20,
+            "league_id": 1,
+            "name_short": "NEW" 
+        }
+    ],
+
+    "markets": [
+        {
+            "id": 1,
+            "groupedName": "FH Draw SH",
+            "name": "1X2"
+        },
+        {
+            "id": 2,
+            "groupedName": "Over Under",
+            "name": "O/U"
+        },
+        {
+            "id": 3,
+            "groupedName": "Both Team To Score",
+            "name": "BTTS"
+        },
+        {
+            "id": 4,
+            "groupedName": "",
+            "name": "DC"
+        },
+        {
+            "id": 5,
+            "groupedName":"Half Time Full Time",
+            "name": "HT/FT"
+        }
+    ]
+    }
+}
